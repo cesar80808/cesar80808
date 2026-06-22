@@ -58,9 +58,10 @@ Graded programming assignments for 37 first semester students on programming fun
 - E-mail: <cesar.flores@cimat.mx>
 - [LinkedIn](https://www.linkedin.com/in/cesar80808/)
 
+---
 
 >_Y la Muerte vencida se refugia temblando_
 >
 >_en el círculo estrecho del minuto presente._
 >
->     Federico García Lorca. 
+>    Federico García Lorca. 
