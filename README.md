@@ -60,8 +60,16 @@ Graded programming assignments for 37 first semester students on programming fun
 
 ---
 
->_Y la Muerte vencida se refugia temblando_
->
->_en el círculo estrecho del minuto presente._
->
->    Federico García Lorca. 
+<div align="center">
+
+<i>
+
+Y la Muerte vencida se refugia temblando
+
+en el círculo estrecho del minuto presente.
+
+</i>
+
+— Federico García Lorca
+
+</div>
