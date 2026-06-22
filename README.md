@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at the University of Guanajuato.
 
-I am currently interested in competitive programming, algoirthms, data structures, machine learning and mathematical modeling. 
+I am currently interested in competitive programming, algorithms, data structures, machine learning and mathematical modeling. 
 I enjoy working on problems that combine theory with practical implementation, especially in C/C++ and Python.
 
 ## 🔬 Current Interests
@@ -31,9 +31,9 @@ I enjoy working on problems that combine theory with practical implementation, e
 ## 📚 Academic Projects
 
 Some topics I have worked on include:
--
--
--
+- To
+- Be 
+- Added...
 
 ## 👨‍🏫 Experience
 
@@ -55,7 +55,10 @@ Graded programming assignments for 37 first semester students on programming fun
 
 ## 📫 Let's Connect
 
-E-mail: <cesar.flores@cimat.mx>
+- E-mail: <cesar.flores@cimat.mx>
+- [LinkedIn](https://www.linkedin.com/in/cesar80808/)
 
-[LinkedIn](https://www.linkedin.com/in/cesar80808/)
 
+>_Y la Muerte vencida se refugia temblando
+>en el círculo estrecho del minuto presente._
+>     Federico García Lorca. 
